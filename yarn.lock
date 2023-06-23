@@ -4681,10 +4681,9 @@ google-auth-library@^8.0.2:
     jws "^4.0.0"
     lru-cache "^6.0.0"
 
-google-oauth2-env-vars@^1.4.0:
+"google-oauth2-env-vars@https://github.com/krutulkamil/google-oauth2-env-vars.git":
   version "1.4.0"
-  resolved "https://registry.yarnpkg.com/google-oauth2-env-vars/-/google-oauth2-env-vars-1.4.0.tgz#fa0279704d4cdb8cb0a3ee3c104025971e71dcc6"
-  integrity sha512-uzH+SSaaznopc9PE3+hrYRJVDkmF+5se7z/dKPRb82fGcizPuYTFkfptCk+JplLddghXtNwecHHSvzwFTw9xkg==
+  resolved "https://github.com/krutulkamil/google-oauth2-env-vars.git#10483addc252ca435b15d0211966441347e00a17"
   dependencies:
     clipboardy "^2.3.0"
     dotenv "^16.0.3"
