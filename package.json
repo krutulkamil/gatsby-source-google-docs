@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "gatsby-source-filesystem": "^5.11.0",
-    "google-oauth2-env-vars": "^1.4.0",
+    "google-oauth2-env-vars": "https://github.com/krutulkamil/google-oauth2-env-vars.git",
     "googleapis": "^118.0.0",
     "json2md": "^2.0.0",
     "lodash": "^4.17.21",
