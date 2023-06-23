@@ -61,7 +61,6 @@
     "lint": "eslint *.js utils examples/**/src",
     "test": "jest --coverage",
     "prepublishOnly": "yarn lint && yarn test",
-    "semantic-release": "semantic-release",
-    "prepare": "husky install"
+    "semantic-release": "semantic-release"
   }
 }
